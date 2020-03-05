@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8031db5-9c78-4fc4-bc1f-ef748ead0a33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem0141/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0141/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0142/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0142/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0086/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0086/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem0141/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem0142/Solution.py">
+        <entry file="file://$PROJECT_DIR$/problem0086/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -63,6 +52,7 @@
         <option value="$PROJECT_DIR$/problem0160/Solution.py" />
         <option value="$PROJECT_DIR$/problem0141/Solution.py" />
         <option value="$PROJECT_DIR$/problem0142/Solution.py" />
+        <option value="$PROJECT_DIR$/problem0086/Solution.py" />
       </list>
     </option>
   </component>
@@ -87,7 +77,7 @@
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0142" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0086" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,12 +168,12 @@
       <workItem from="1582027979505" duration="422000" />
       <workItem from="1583206212320" duration="657000" />
       <workItem from="1583294829234" duration="1593000" />
-      <workItem from="1583313130953" duration="10243000" />
+      <workItem from="1583313130953" duration="10799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12915000" />
+    <option name="totallyTimeSpent" value="13471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -279,13 +269,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem0092/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problem0160/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -310,6 +293,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problem0142/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problem0141/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -317,10 +307,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem0142/Solution.py">
+    <entry file="file://$PROJECT_DIR$/problem0092/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
+        <state>
+          <caret selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0086/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="27" />
         </state>
       </provider>
     </entry>
