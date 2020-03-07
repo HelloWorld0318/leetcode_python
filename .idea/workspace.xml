@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8031db5-9c78-4fc4-bc1f-ef748ead0a33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem0002/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0002/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0003/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0003/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem0002/Solution.py">
+        <entry file="file://$PROJECT_DIR$/problem0003/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="26" selection-end-column="25" />
+            <state>
+              <caret selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -64,6 +64,7 @@
         <option value="$PROJECT_DIR$/problem0128/Solution.py" />
         <option value="$PROJECT_DIR$/problem0001/Solution.py" />
         <option value="$PROJECT_DIR$/problem0002/Solution.py" />
+        <option value="$PROJECT_DIR$/problem0003/Solution.py" />
       </list>
     </option>
   </component>
@@ -90,7 +91,7 @@
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0002" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0003" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,12 +183,12 @@
       <workItem from="1583294829234" duration="1593000" />
       <workItem from="1583313130953" duration="18473000" />
       <workItem from="1583458346622" duration="2584000" />
-      <workItem from="1583484347014" duration="7372000" />
+      <workItem from="1583484347014" duration="7831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31101000" />
+    <option name="totallyTimeSpent" value="31560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -406,6 +407,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0003/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
         </state>
       </provider>
     </entry>
