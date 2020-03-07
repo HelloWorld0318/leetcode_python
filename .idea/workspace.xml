@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8031db5-9c78-4fc4-bc1f-ef748ead0a33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem0015/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0015/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem0206/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem0206/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0016/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0016/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,73 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem0015/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem0026/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem0001/Solution.py">
+        <entry file="file://$PROJECT_DIR$/problem0016/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem0002/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="26" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem0004/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem0003/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="604" column="64" selection-start-line="604" selection-start-column="64" selection-end-line="604" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2067058712/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54705">
-              <caret line="3647" column="8" selection-start-line="3647" selection-start-column="8" selection-end-line="3647" selection-end-column="8" />
+              <caret line="3" selection-start-line="3" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -98,6 +35,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -131,6 +76,8 @@
         <option value="$PROJECT_DIR$/problem0003/Solution.py" />
         <option value="$PROJECT_DIR$/problem0015/Solutio.py" />
         <option value="$PROJECT_DIR$/problem0015/Solution.py" />
+        <option value="$PROJECT_DIR$/problem0016/Solutiob.py" />
+        <option value="$PROJECT_DIR$/problem0016/Solution.py" />
       </list>
     </option>
   </component>
@@ -157,40 +104,7 @@
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0015" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0015" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0015" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution.py" type="8704e2dd:PyFileNode" />
-              <item name="Solution" type="dd8bbb05:PyElementNode" />
+              <item name="problem0016" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,12 +196,12 @@
       <workItem from="1583294829234" duration="1593000" />
       <workItem from="1583313130953" duration="18473000" />
       <workItem from="1583458346622" duration="2584000" />
-      <workItem from="1583484347014" duration="9593000" />
+      <workItem from="1583484347014" duration="10212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33322000" />
+    <option name="totallyTimeSpent" value="33941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -481,20 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="604" column="64" selection-start-line="604" selection-start-column="64" selection-end-line="604" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2067058712/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54705">
-          <caret line="3647" column="8" selection-start-line="3647" selection-start-column="8" selection-end-line="3647" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problem0001/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -516,13 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem0003/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problem0026/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -530,10 +423,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problem0003/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/problem0015/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="390">
+          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0003/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="604" column="64" selection-start-line="604" selection-start-column="64" selection-end-line="604" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2067058712/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54705">
+          <caret line="3647" column="8" selection-start-line="3647" selection-start-column="8" selection-end-line="3647" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0016/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="23" />
         </state>
       </provider>
     </entry>
