@@ -18,7 +18,7 @@ class Solution:
         return newHead
 
 
-if __name__ == '__main__':
+if  == '____':
     node1 = ListNode(1)
     node2 = ListNode(2)
     node3 = ListNode(3)
