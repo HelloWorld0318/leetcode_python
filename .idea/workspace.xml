@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/problem0047/Solution.py" />
         <option value="$PROJECT_DIR$/problem0036/Solution.py" />
         <option value="$PROJECT_DIR$/problem0042/Solution.py" />
+        <option value="$PROJECT_DIR$/problem0048/Solution.py" />
       </list>
     </option>
   </component>
@@ -257,12 +258,12 @@
       <workItem from="1583458346622" duration="2584000" />
       <workItem from="1583484347014" duration="13147000" />
       <workItem from="1583577379250" duration="1000" />
-      <workItem from="1583592795836" duration="6733000" />
+      <workItem from="1583592795836" duration="7244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43610000" />
+    <option name="totallyTimeSpent" value="44121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -565,6 +566,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0048/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
