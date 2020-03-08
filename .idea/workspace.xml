@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8031db5-9c78-4fc4-bc1f-ef748ead0a33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem0047/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0047/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0036/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0036/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,19 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem0047/Solution.py">
+        <entry file="file://$PROJECT_DIR$/problem0036/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2067058712/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-109">
-              <caret line="1300" column="6" selection-start-line="1300" selection-start-column="6" selection-end-line="1300" selection-end-column="6" />
+            <state relative-caret-position="25">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="45" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -93,6 +84,7 @@
         <option value="$PROJECT_DIR$/problem0018/Solution.py" />
         <option value="$PROJECT_DIR$/problem0031/Solution.py" />
         <option value="$PROJECT_DIR$/problem0047/Solution.py" />
+        <option value="$PROJECT_DIR$/problem0036/Solution.py" />
       </list>
     </option>
   </component>
@@ -118,50 +110,7 @@
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0047" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0047" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0047" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution.py" type="8704e2dd:PyFileNode" />
-              <item name="Solution" type="dd8bbb05:PyElementNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="-2067058712" type="70582d5e:PySkeletonsNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="-2067058712" type="70582d5e:PySkeletonsNode" />
-              <item name="builtins.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="-2067058712" type="70582d5e:PySkeletonsNode" />
-              <item name="builtins.py" type="8704e2dd:PyFileNode" />
-              <item name="bool" type="dd8bbb05:PyElementNode" />
+              <item name="problem0036" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,23 +251,23 @@
       <workItem from="1583458346622" duration="2584000" />
       <workItem from="1583484347014" duration="13147000" />
       <workItem from="1583577379250" duration="1000" />
-      <workItem from="1583592795836" duration="2947000" />
+      <workItem from="1583592795836" duration="4740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39824000" />
+    <option name="totallyTimeSpent" value="41617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2353362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2353362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29244113" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27137548" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35315984" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -590,8 +539,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problem0047/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0036/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="45" selection-end-column="19" />
         </state>
       </provider>
     </entry>
