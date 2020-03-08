@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8031db5-9c78-4fc4-bc1f-ef748ead0a33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem0031/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0031/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0047/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0047/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +15,25 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode_python$Solution__1_.coverage" NAME="Solution (1) Coverage Results" MODIFIED="1583381166121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0206" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution.coverage" NAME="Solution Coverage Results" MODIFIED="1583380000245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0001" />
+    <SUITE FILE_PATH="coverage/leetcode_python$Solution__3_.coverage" NAME="Solution (3) Coverage Results" MODIFIED="1583631592998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0047" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution__2_.coverage" NAME="Solution (2) Coverage Results" MODIFIED="1583597453355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0031" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem0031/Solution.py">
+        <entry file="file://$PROJECT_DIR$/problem0047/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="37" />
+            <state relative-caret-position="570">
+              <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2067058712/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-109">
+              <caret line="1300" column="6" selection-start-line="1300" selection-start-column="6" selection-end-line="1300" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -82,6 +92,7 @@
         <option value="$PROJECT_DIR$/problem0027/Solution.py" />
         <option value="$PROJECT_DIR$/problem0018/Solution.py" />
         <option value="$PROJECT_DIR$/problem0031/Solution.py" />
+        <option value="$PROJECT_DIR$/problem0047/Solution.py" />
       </list>
     </option>
   </component>
@@ -107,7 +118,50 @@
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0031" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0047" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0047" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0047" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.py" type="8704e2dd:PyFileNode" />
+              <item name="Solution" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-2067058712" type="70582d5e:PySkeletonsNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-2067058712" type="70582d5e:PySkeletonsNode" />
+              <item name="builtins.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="-2067058712" type="70582d5e:PySkeletonsNode" />
+              <item name="builtins.py" type="8704e2dd:PyFileNode" />
+              <item name="bool" type="dd8bbb05:PyElementNode" />
             </path>
           </expand>
           <select />
@@ -133,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Solution (2)">
+  <component name="RunManager" selected="Python.Solution (3)">
     <configuration name="Solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,6 +232,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem0047" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem0047/Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,6 +278,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Solution (3)" />
         <item itemvalue="Python.Solution (2)" />
         <item itemvalue="Python.Solution (1)" />
         <item itemvalue="Python.Solution" />
@@ -225,12 +302,12 @@
       <workItem from="1583458346622" duration="2584000" />
       <workItem from="1583484347014" duration="13147000" />
       <workItem from="1583577379250" duration="1000" />
-      <workItem from="1583592795836" duration="1339000" />
+      <workItem from="1583592795836" duration="2947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38216000" />
+    <option name="totallyTimeSpent" value="39824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -469,13 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2067058712/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54705">
-          <caret line="3647" column="8" selection-start-line="3647" selection-start-column="8" selection-end-line="3647" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problem0016/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -507,7 +577,21 @@
     <entry file="file://$PROJECT_DIR$/problem0031/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="37" />
+          <caret line="3" selection-start-line="3" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2067058712/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="1300" column="6" selection-start-line="1300" selection-start-column="6" selection-end-line="1300" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0047/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
         </state>
       </provider>
     </entry>
