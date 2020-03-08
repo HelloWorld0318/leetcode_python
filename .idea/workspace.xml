@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8031db5-9c78-4fc4-bc1f-ef748ead0a33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem0070/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem0070/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0089/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem0089/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,27 +15,18 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode_python$Solution__1_.coverage" NAME="Solution (1) Coverage Results" MODIFIED="1583381166121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0206" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution__5_.coverage" NAME="Solution (5) Coverage Results" MODIFIED="1583640339706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0070" />
-    <SUITE FILE_PATH="coverage/leetcode_python$Solution.coverage" NAME="Solution Coverage Results" MODIFIED="1583380000245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0001" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution__3_.coverage" NAME="Solution (3) Coverage Results" MODIFIED="1583631592998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0047" />
+    <SUITE FILE_PATH="coverage/leetcode_python$Solution.coverage" NAME="Solution Coverage Results" MODIFIED="1583679098030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0089" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution__2_.coverage" NAME="Solution (2) Coverage Results" MODIFIED="1583597453355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0031" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution__4_.coverage" NAME="Solution (4) Coverage Results" MODIFIED="1583637552373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0042" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem0066/Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem0070/Solution.py">
+        <entry file="file://$PROJECT_DIR$/problem0089/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -100,6 +91,7 @@
         <option value="$PROJECT_DIR$/problem0048/Solution.py" />
         <option value="$PROJECT_DIR$/problem0066/Solution.py" />
         <option value="$PROJECT_DIR$/problem0070/Solution.py" />
+        <option value="$PROJECT_DIR$/problem0089/Solution.py" />
       </list>
     </option>
   </component>
@@ -125,7 +117,7 @@
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0070" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0089" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,29 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Solution (5)">
-    <configuration name="Solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem0206" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem0206/Solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Solution">
     <configuration name="Solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,13 +232,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem0089" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem0089/Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Solution" />
         <item itemvalue="Python.Solution (5)" />
         <item itemvalue="Python.Solution (4)" />
         <item itemvalue="Python.Solution (3)" />
         <item itemvalue="Python.Solution (2)" />
-        <item itemvalue="Python.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -289,12 +281,12 @@
       <workItem from="1583458346622" duration="2584000" />
       <workItem from="1583484347014" duration="13147000" />
       <workItem from="1583577379250" duration="1000" />
-      <workItem from="1583592795836" duration="7791000" />
+      <workItem from="1583592795836" duration="8937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44668000" />
+    <option name="totallyTimeSpent" value="45814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -343,6 +335,11 @@
           <url>file://$PROJECT_DIR$/problem0042/Solution.py</url>
           <line>28</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/problem0089/Solution.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -438,13 +435,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problem0092/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problem0086/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="24" />
@@ -608,6 +598,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problem0070/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problem0066/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -615,10 +612,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem0070/Solution.py">
+    <entry file="file://$PROJECT_DIR$/problem0086/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="11" selection-end-column="17" />
+          <caret selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem0089/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
