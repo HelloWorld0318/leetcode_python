@@ -1,4 +1,4 @@
-from _ast import List
+from typing import List
 
 
 class Solution:
@@ -12,3 +12,10 @@ class Solution:
             value2Index[nums[i]] = i
 
         return [-1, -1]
+
+
+if __name__ == '__main__':
+    solution = Solution()
+    nums = [1, 2, 3, 4]
+    ans = solution.twoSum(nums, 4)
+    print(ans)
