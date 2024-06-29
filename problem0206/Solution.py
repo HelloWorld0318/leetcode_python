@@ -18,7 +18,7 @@ class Solution:
         return newHead
 
 
-if  == '____':
+if __name__ == '__main__':
     node1 = ListNode(1)
     node2 = ListNode(2)
     node3 = ListNode(3)
@@ -32,4 +32,4 @@ if  == '____':
 
     solution = Solution()
     node1 = solution.reverseList(node1)
-    print(node1)
+    print(node1.val)
